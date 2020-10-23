@@ -9,7 +9,7 @@
 ### RUN THE CODE
 We do not have an android phone, unfortunately. But it is running well when using emulator Nexus 5X.
 
-**To both of us, this is the very first Android Studio experience.So there might be many impropriate use in the code. But still, we learned a lot while building it:)
+**To both of us, this is the very first Android Studio experience.So there might be some impropriate use in the code. But still, we learned a lot while building it:)
 
 
 ### PROJECT WEBSITE
